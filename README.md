@@ -81,7 +81,7 @@ Key analytics performed:
 
 Below is the dashboard preview:
 
-![Dashboard Image](dashboard.jpeg)
+![Dashboard Image](dashboard.png)
 
 *(Replace with actual image file path after uploading to GitHub)*
 
