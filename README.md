@@ -132,7 +132,7 @@ The pivot analysis workbooks include:
 - Sum of seasons
 - Sum of episodes
 
-### Pivot Table 6 (by `country_of_origin`)
+### Pivot Table 4 (by `country_of_origin`)
 
 - Count of IDs
 - Sum of production budget
