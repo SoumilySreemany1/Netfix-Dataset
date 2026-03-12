@@ -162,7 +162,7 @@ Dashboard visuals include:
 Below is the dashboard created for visual analysis:
 
 <p align="center">
-  <img src="Dashboard.png" width="900">
+  <img src="Dashboard/Dashboard.png" width="900">
 </p>
 
 ---
